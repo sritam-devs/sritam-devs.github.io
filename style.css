@@ -154,7 +154,7 @@ html {
   width: 100%;
   height: 100%;
   z-index: -1; 
-  background: var(--bg); /* This ensures it matches your theme */
+  background: var(--bg); 
 }
 /* =========================================
    MOBILE RESPONSIVENESS (Max Width: 768px)
